@@ -1,0 +1,6 @@
+NAME                                  READY   STATUS    RESTARTS   AGE
+predictor-minikube-769ffdc5dc-nw4ll   1/1     Running   0          67s
+Forwarding from 0.0.0.0:8000 -> 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
