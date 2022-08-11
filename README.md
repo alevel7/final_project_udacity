@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+# Template:
+[![<ORG_NAME>](https://circleci.com/gh/udacity-alevel7/machine-learning-prediction-app.svg?style=svg)](https://app.circleci.com/pipelines/github/alevel7/final_project_udacity)
 
 ## Project Overview
 
