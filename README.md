@@ -1,5 +1,5 @@
 # Template:
-[![udacity-alevel7](https://circleci.com/gh/udacity-alevel7/machine-learning-prediction-app.svg?style=svg)](https://app.circleci.com/pipelines/github/alevel7/final_project_udacity)
+[![alevel7](https://circleci.com/gh/alevel7/final_project_udacity.svg?style=svg)](https://app.circleci.com/pipelines/github/alevel7/final_project_udacity)
 
 ## Project Overview
 
